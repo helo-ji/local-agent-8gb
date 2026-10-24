@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model files (too large for git)
+*.gguf
+
+# Local env
+.env
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
