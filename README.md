@@ -50,8 +50,7 @@ It is not reliable for longer multi-step tasks where context growth makes the to
 ```text
 local-agent-8gb/
 ├── README.md
-├── configs/
-│   └── opencode.json
+├── opencode.json
 ├── scripts/
 │   └── start-llama.ps1
 ├── notes/
